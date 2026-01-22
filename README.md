@@ -1,75 +1,88 @@
 # APOCALIPSIS
-Artefatto alieno di esposizione temporale globale
 
-APOCALIPSIS è un’opera osservativa disciplinare, **chiusa**, **opponibile** e
-**decadibile nel tempo**. Non è fondativa, non è normativa e non è prescrittiva.
-Registra effetti osservabili quando il regime
-**Decisione · Costo · Traccia · Tempo**
-opera su scala collettiva.
-
----
-
-## Identificazione
-- **Titolo:** APOCALIPSIS
-- **Qualificazione:** Artefatto alieno
-- **Autore:** Manuel Coletta
-- **Editore:** ESOTEROLOGIA — Edizioni
-- **Luogo:** Torino, Italia
-- **Anno:** 2026
-- **Stato:** chiuso
+Opera editoriale chiusa.  
+Atto di esposizione disciplinare.
 
 ---
 
 ## Natura dell’opera
-APOCALIPSIS non propone soluzioni, non formula previsioni e non fonda visioni del mondo.
-Non interpreta e non applica: **espone**.
 
-È definito artefatto alieno perché non nasce da una domanda culturale,
-non si colloca in una tradizione editoriale e non offre una posizione abitabile.
+**Apocalipsis** non è un testo profetico,  
+non è un’opera religiosa,  
+non è una narrazione simbolica,  
+non è un manifesto ideologico.
 
----
+È un **atto editoriale** che espone una configurazione
+nel momento in cui diventa **irreversibile**.
 
-## Relazione con il Corpus
-L’opera è **subordinata** al **CORPUS ESOTEROLOGIA ERMETICA**:
-- il Corpus definisce il dominio osservabile;
-- APOCALIPSIS registra le conseguenze temporali.
-
-Non esiste continuità narrativa.  
-Esiste irreversibilità causale.
+L’opera non annuncia il futuro.  
+Rende osservabile ciò che è già accaduto
+ma non è ancora stato assunto come tale.
 
 ---
 
-## Matrix come superficie di evidenza
-Matrix non è assunta come teoria o modello operativo.
-È utilizzata come **superficie di evidenza temporale** per rendere visibili:
-- l’accumulo delle decisioni;
-- la distribuzione dei costi;
-- la persistenza delle tracce;
-- l’irreversibilità degli effetti nel tempo.
+## Funzione
 
-Matrix non spiega.  
-Matrix espone.
+Apocalipsis registra il punto di collasso
+tra continuità apparente e discontinuità reale.
 
----
+Espone il momento in cui:
+- la decisione non può più essere evitata,
+- il costo non può più essere rinviato,
+- la traccia non può più essere rimossa,
+- il tempo smette di proteggere.
 
-## Posizionamento temporale
-Il riferimento **2030** indica una **soglia osservabile**, non una data profetica.
-Entro tale orizzonte emergono effetti sistemici non neutralizzabili
-per impossibilità tecnica, non per scelta morale.
+Non propone soluzioni.  
+Non prescrive azioni.  
+Non offre redenzione.
 
 ---
 
-## Funzione del testo
-APOCALIPSIS funziona come **oggetto ritrovato nel tempo**.
-Resta leggibile finché ciò che espone produce effetti osservabili;
-in caso contrario, **decade senza eredi**.
+## Regime disciplinare
+
+L’opera è trattata secondo la griglia:
+
+**Decisione · Costo · Traccia · Tempo**
+
+Ogni affermazione contenuta nel testo:
+- è attribuibile,
+- comporta un costo,
+- lascia una traccia,
+- è esposta alla decadenza.
+
+Nessuna affermazione è protetta
+da statuto simbolico o interpretativo.
 
 ---
+
+## Regime editoriale
+
+- Opera **chiusa**
+- Non aggiornata
+- Non emendabile
+- Ogni revisione costituisce **nuova edizione**
+
+La validità non deriva dal consenso,
+ma dalla **tenuta nel tempo**.
+
 ---
 
-## Chiusura
-APOCALIPSIS non chiede adesione,
-non promette permanenza,
-non stabilizza significati.
+## Autorialità
 
-Resta esposto al tempo.
+**Autore:** Manuel Coletta  
+**Editore:** ESOTEROLOGIA — Edizioni  
+**Anno:** 2026  
+**Luogo di pubblicazione:** Torino (TO), Italia  
+
+---
+
+## Nota editoriale
+
+Questo repository espone l’opera come atto editoriale.
+
+Le infrastrutture tecniche operano esclusivamente
+come supporto di esposizione.
+
+Il contenuto precede sempre il mezzo.  
+Ogni validità resta temporanea.  
+Ogni affermazione resta decadibile.
